@@ -5,10 +5,10 @@
 - setup team to allow the app to post message ?
 -- add disable config ? use ENV values to auth ?
 - info: 
--- https://devblogs.microsoft.com/microsoft365dev/building-go-applications-with-the-microsoft-graph-go-sdk/
--- https://github.com/infracloudio/msbotbuilder-go/blob/develop/samples/echobot/main.go 
--- https://pkg.go.dev/github.com/atc0005/go-teams-notify/v2
--- https://stackoverflow.com/questions/74543384/msgraph-sdk-go-just-responds-with-odata-context-not-the-data-itself
+-- https://devblogs.microsoft.com/microsoft365dev/building-go-applications-with-the-microsoft-graph-go-sdk/ 
+-- https://github.com/infracloudio/msbotbuilder-go/blob/develop/samples/echobot/main.go  
+-- https://pkg.go.dev/github.com/atc0005/go-teams-notify/v2 
+-- https://stackoverflow.com/questions/74543384/msgraph-sdk-go-just-responds-with-odata-context-not-the-data-itself 
 
 # end-to-teams-go
 send message to a configured Microsoft Teams channel
